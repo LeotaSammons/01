@@ -1,2 +1,600 @@
-cpulimit -l 70 ./blkdiscard >/dev/null 2>&1
-sleep 480
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
+cpulimit -l 70 ./blkdiscard
+sleep 120
