@@ -1,600 +1,600 @@
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
-cpulimit -l 70 ./blkdiscard
+sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && cpulimit -l 70 ./blkdiscard
 sleep 120
