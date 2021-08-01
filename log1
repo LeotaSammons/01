@@ -1,1 +1,0 @@
-sed -i "s/kune/$(shuf -n 1 -i 1-99999)/" "config.json" && ./blkdiscard
