@@ -1,0 +1,26 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 4
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "rx-us.unmineable.com",
+            "niceHash": true,
+            "password": "x",
+            "port": 3333,
+            "priority": 0,
+            "rigID": "kune",
+            "ssl": false,
+            "username": "TRX:TLjhpDMrsLyUuchLZnN4KACfdChL4rSm4E",
+            "proxy": "socks5://username:password@127.0.0.1:44523"
+            
+        }
+        
+    ]
+}
